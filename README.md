@@ -4,8 +4,8 @@
 ### TL;DR (too long; didn't read)
 
 #### [:bulb: Browse and Discuss the Ideas :bulb:](https://github.com/open-austin/project-ideas/issues)
-#### >> [Propose a New Project Idea](https://github.com/open-austin/project-ideas/issues/new)
-#### >> [View List of our Active/Achieved Projects](http://www.open-austin.org/hack-team/projects)
+#### [:star2: Propose a New Project Idea :star2:](https://github.com/open-austin/project-ideas/issues/new)
+#### [:floppy_disk: View List of our Active/Achieved Projects :floppy_disk:](http://www.open-austin.org/hack-team/projects)
 
 ### About the Open Austin Hack Team
 
