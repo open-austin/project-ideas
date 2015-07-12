@@ -3,7 +3,7 @@
 
 ### TL;DR (too long; didn't read)
 
-#### >> [Browse and Discuss Existing Project Ideas](https://github.com/open-austin/project-ideas/issues)
+#### [:bulb: Browse and Discuss the Ideas :bulb:](https://github.com/open-austin/project-ideas/issues)
 #### >> [Propose a New Project Idea](https://github.com/open-austin/project-ideas/issues/new)
 #### >> [View List of our Active/Achieved Projects](http://www.open-austin.org/hack-team/projects)
 
