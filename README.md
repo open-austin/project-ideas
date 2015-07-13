@@ -9,7 +9,7 @@
 
 ### About the Open Austin Hack Team
 
-Open Austin uses civic tech to improve quality of life. And we want to help citizen, government, and nonprofit stakeholders solve problems. 
+Open Austin uses civic tech to improve quality of life. We want to help citizen, government, and nonprofit stakeholders solve problems. 
 
 Open Austin is an [open source](https://en.wikipedia.org/wiki/Open_source) organization. We make software freely and openly available. GitHub is our platform of choice. Think of it as collaboration + technology. There are some really handy tools here, including a feature called [*Issues*](https://github.com/open-austin/project-ideas/issues).
 
@@ -18,6 +18,7 @@ Got an idea? Even a tiny one? SHARE IT!
 Thanks for co-creating with us!
 
 ## How To Propose or Discuss Project Ideas
+
 [GitHub Issues](https://guides.github.com/features/issues/) work just like any other commenting system on the Internet. First, you'll need to [create an account](https://github.com/join). Then you have two options: (1) comment on an existing idea (a.k.a. "issue"), or (2) create a new idea.
 
 If you see an idea that you're interested in, click on it, read the discussion, and then add your thoughts to the bottom of the discussion thread. If you don't see the idea you have in mind, [add a new one](https://github.com/code4sac/projects/issues/new). You'll need a title and description and we encourage you to use the Template below. Then, someone from the Open Austin Core Team will respond, likely with some questions or feedback. 
