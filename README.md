@@ -28,6 +28,7 @@ GitHub is the platform we're using to collect ideas, vet ideas, and convert thos
 
 ### Template for New Project Ideas
 
+```md
 *(Copy and paste the below into a new issue.)*
 
 **One sentence description**: 
@@ -37,3 +38,4 @@ GitHub is the platform we're using to collect ideas, vet ideas, and convert thos
 **Project Needs (dev/design/resources)**:
 
 **Status (in progress, pie-in-the-sky)**
+```
