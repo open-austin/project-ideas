@@ -33,9 +33,9 @@ GitHub is the platform we're using to collect ideas, vet ideas, and convert thos
 ```
 **One sentence description**: 
 
-**Link (more details/brain dump/alpha)**:
+**Link (more details/brain dump/alpha)**
 
-**Project Needs (dev/design/resources)**:
+**Project Needs (dev/design/resources)**
 
 **Status (in progress, pie-in-the-sky)**
 ```
