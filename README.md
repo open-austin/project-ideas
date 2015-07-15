@@ -32,7 +32,7 @@ GitHub is the platform we're using to collect ideas, vet ideas, and convert thos
 *(Copy and paste the below into a new issue.)*
 
 ```
-**One sentence description**: 
+**Concise description**: 
 
 **Link (more details/brain dump/alpha)**
 
