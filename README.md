@@ -1,8 +1,5 @@
 # Open Austin Project Ideas
 
-
-### TL;DR (too long; didn't read)
-
 #### [:bulb: Browse and Discuss the Ideas :bulb:](https://github.com/open-austin/project-ideas/issues)
 #### [:star2: Propose a New Project Idea :star2:](https://github.com/open-austin/project-ideas/issues/new)
 #### [:floppy_disk: View List of our Active/Achieved Projects :floppy_disk:](http://www.open-austin.org/hack-team/projects)
@@ -43,3 +40,14 @@ GitHub is the platform we're using to collect ideas, vet ideas, and convert thos
 **Status (in progress, pie-in-the-sky)**
 
 ```
+
+### Project Stages
+
+Code for America has released some official project stages:
+
+- Experiment - Explore the problem/idea. Have lots of these.
+- Alpha - Solve one person's problem
+- Beta - More users
+- Official - Impact
+
+More details about these stages are available here: https://docs.google.com/presentation/d/1Z33SXl78c3UlO2VOA9SjXTVMHdY9ogjMJBLB6SMN7j0/edit#slide=id.gbb3e3eab5_0_141. This includes outlining what a brigade is expected to do at each stage and what Code for America can do 
