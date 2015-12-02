@@ -37,7 +37,7 @@ GitHub is the platform we're using to collect ideas, vet ideas, and convert thos
 
 **Project Needs (dev/design/resources)**
 
-**Status (in progress, pie-in-the-sky)**
+**Status (experiment, alpha, beta, official)**
 
 ```
 
