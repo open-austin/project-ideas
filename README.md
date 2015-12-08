@@ -50,4 +50,4 @@ Code for America has released some official project stages:
 - Beta - More users
 - Official - Impact
 
-More details about these stages are available here: https://docs.google.com/presentation/d/1Z33SXl78c3UlO2VOA9SjXTVMHdY9ogjMJBLB6SMN7j0/edit#slide=id.gbb3e3eab5_0_141. This includes outlining what a brigade is expected to do at each stage and what Code for America can do 
+[Here are more details about these project stages](http://www.codeforamerica.org/brigade/projects/stages). This includes outlining what a brigade is expected to do at each stage and what Code for America can do 
