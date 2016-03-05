@@ -1,19 +1,13 @@
-#### Concise description. What problem are you trying to solve? 
+### “How Might We” statement
 
-Tell us what problem you're trying to solve.
 
-#### Link (more details/brain dump/alpha)
+### Who will benefit (directly and indirectly) from this project?
 
-Add a link here.
 
-#### Who will use/benefit from this project?
+### Links to any research/data available/ articles
 
-Explain who will use and benefit from this project.
 
-#### Project Needs (dev/design/resources)
+### Photo of hack canvas
 
-Share what your poject needs are here.
 
-#### Status (experiment, alpha, beta, official)
-
-Add the status of the project here.
+### What are the next steps (validation, research, coding, design)?
