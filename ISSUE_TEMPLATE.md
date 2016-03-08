@@ -8,7 +8,7 @@ Answer here.
 
 ### Links to any research/data available/ articles
 
-http://www.austinmonitor.com/stories/2016/03/fire-department-says-it-needs-more-fire-stations/
+Links here.
 
 ### What are the next steps (validation, research, coding, design)? 
 
