@@ -6,7 +6,7 @@ Answer here.
 
 Answer here.
 
-### Links to any research/data available/ articles
+### Links to any research/data available/articles
 
 Links here.
 
