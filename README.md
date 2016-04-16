@@ -24,23 +24,6 @@ GitHub is the platform we're using to collect ideas, vet ideas, and convert thos
 
 *Here's a [quick video intro](https://www.youtube.com/watch?v=KlrJVSJRUN4) on using Github Issues for discussion.*
 
-### Template for New Project Ideas
-
-*(Copy and paste the below into a new issue.)*
-
-```
-**Concise description. What problem are you trying to solve?**: 
-
-**Link (more details/brain dump/alpha)**
-
-**Who will use/benefit from this project?**
-
-**Project Needs (dev/design/resources)**
-
-**Status (experiment, alpha, beta, official)**
-
-```
-
 ### Project Stages
 
 Code for America has released some official project stages:
