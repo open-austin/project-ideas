@@ -47,5 +47,5 @@ If you don't see the idea you have in mind, [add a new one](https://github.com/c
 
 * If nobody's talking yet, it might be that your idea needs some more fleshing out. We highly recommend thinking through the [Civic Tech Canvas](https://github.com/open-austin/civic-tech-canvas) as a next step! 
 
-* If you're willing to be the champion on this project, you should let one of our [project leads](hack@open-austin.org) know. GitHub is the platform we're using to collect ideas, vet ideas, and convert those ideas into active projects. Once a project becomes active, we'll help you **set up repository** on the Open Austin GitHub page so you can start scoping and collaborating. We'll continue to use the Issues feature to flag obstacles, opportunities, and answer questions about that specific project.
+* If you're willing to be the champion on this project, you should let one of our [project leads](mailto:hack@open-austin.org) know. GitHub is the platform we're using to collect ideas, vet ideas, and convert those ideas into active projects. Once a project becomes active, we'll help you **set up repository** on the Open Austin GitHub page so you can start scoping and collaborating. We'll continue to use the Issues feature to flag obstacles, opportunities, and answer questions about that specific project.
 
