@@ -35,7 +35,7 @@ Thanks for co-creating with us!
 
 #### Comment on an existing idea (a.k.a. "issue")
 
-Scroll through the repo first to see if anyone's already thinking the same way! If you see an idea that catches your eye, click on it, read the discussion, and then add your thoughts to the bottom of the discussion thread. 
+Scroll through the [issues list](https://github.com/open-austin/project-ideas/issues) first to see if anyone's already thinking the same way! If you see an idea that catches your eye, click on it, read the discussion, and then add your thoughts to the bottom of the discussion thread. 
 
 #### Or, create a new idea.
 
