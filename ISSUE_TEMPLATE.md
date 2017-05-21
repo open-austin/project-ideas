@@ -20,11 +20,11 @@ Links here.
 Answer here.
 
 
-### What are the next steps (validation, research, coding, design)? 
+### What are the next steps (validation, research, coding, design)?
 
 Answer here.
 
----- 
+----
 <!--- You can skip the following for now, but come back to it later!  --->
 
 ### Project management
@@ -43,10 +43,10 @@ Let's get this project started! When this idea starts taking off, the Projects C
 - [ ] Complete [Open Leadership 101](https://mozilla.teachable.com/p/open-leadership-101)
 - [ ] Create a [GitHub repository](https://github.com/new) and Slack channel for work.
 - [ ] Create a [README file](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/) in your project repository. This file should help newcomers understand what your project is, why it's important, and kinds of help you're looking for.
-- [ ] Turn on your [Issue Tracker](https://mozilla.github.io/global-sprint/project-lead/templates/#4-create-issues) and create issues to describe each task that you need help with and how a contributor can get started on that task.
+- [ ] [Create issues](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/project-set-up-for-collaboration-with-github/#assignment--add-your-first-issue) to describe each task that you plan to do or need help with and how a contributor can get started on that task. You might start and stop a lot, so consider issues as your to-do list.
 
 #### Checklist for FEATURED Projects :tada:
-To have your project FEATURED on [Open-Austin.org](https://open-austin.org/), complete the following documentation. In past projects, well-documented featured projects have more contributions than other projects. 
+To have your project FEATURED on [Open-Austin.org](https://open-austin.org/), complete the following documentation. In past projects, well-documented featured projects have more contributions than other projects.
 
 * [ ] In your README, link to the [Open Austin Community Participation Guidelines](https://docs.google.com/document/d/1OujyBccPpepUXSY5_nP3alzvd81WlCKSeSf_-sU5K-U/edit?usp=sharing) or write your own code of conduct.
 * [ ] [Create file: LICENSE](http://choosealicense.com/) to give your project an open license, allowing for sharing and remixing.
