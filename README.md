@@ -1,23 +1,28 @@
-# Open Austin Project Ideas
+# Open Austin: Project Ideas
 
-Check out what other members are thinking about and chime in to the discussion!
+#### Check out what other members are working on
 
-#### [:bulb: Browse and Discuss the Ideas :bulb:](https://github.com/open-austin/project-ideas/issues)
+- Browse [Active Projects](https://github.com/open-austin/project-ideas/projects/1)
 
+#### Want to start an Open Austin project?
 
-Want to start an Open Austin project? 
+[Share your idea with us!](https://github.com/open-austin/project-ideas/issues/new)
 
-#### [:star2: Share your idea with us! :star2:](https://github.com/open-austin/project-ideas/issues/new)
+#### Looking to jump into an existing project?
 
+- Browse [All](http://www.github.com/open-austin)
+- Browse by [Label](https://github.com/open-austin/project-ideas/labels)
 
-Looking to jump into an existing project?
+Browse by type of task:
 
-#### [:floppy_disk: Dive right into an Active Project :floppy_disk:](http://www.github.com/open-austin)
+- [Design](https://github.com/search?utf8=✓&q=org%3Aopen-austin+is%3Aopen+label%3Adesign&type=Issues)
+- [Dev](https://github.com/search?utf8=✓&q=org%3Aopen-austin+is%3Aopen+label%3Adev&type=Issues)
+- [Data Wrangling](https://github.com/search?o=desc&q=org%3Aopen-austin+is%3Aopen+label%3A%22Data+wrangling%22&s=created&type=Issues&utf8=✓)
+- [Programming](https://github.com/search?utf8=✓&q=org%3Aopen-austin+is%3Aopen+label%3Aprogramming&type=Issues)
 
+## About the Open Austin Team
 
-## About the Open Austin Hack Team
-
-Open Austin uses civic tech to improve quality of life. We want to help citizen, government, and nonprofit stakeholders solve problems. 
+Open Austin uses civic tech to improve quality of life. We want to help citizen, government, and nonprofit stakeholders solve problems.
 
 Open Austin is an [open source](https://en.wikipedia.org/wiki/Open_source) organization. We make our projects freely and openly available. GitHub is where we collaborate. There are some really handy tools here, including a feature called [*Issues*](https://github.com/open-austin/project-ideas/issues). This is where we can break projects into manageable problems for collaborators to solve together. 
 
