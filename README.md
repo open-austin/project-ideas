@@ -44,7 +44,7 @@ Scroll through the [issues list](https://github.com/open-austin/project-ideas/is
 
 #### Or, create a new idea.
 
-If you don't see the idea you have in mind, [add a new one](https://github.com/code4sac/projects/issues/new). You'll need a title and description. Someone from the Open Austin Core Team will respond, likely with some questions or feedback, and assign you to the issue to indicate you are leading the effort.
+If you don't see the idea you have in mind, [add a new one](https://github.com/open-austin/project-ideas/issues/new). You'll need a title and description. Someone from the Open Austin Core Team will respond, likely with some questions or feedback, and assign you to the issue to indicate you are leading the effort.
 
 *Here's a [quick video intro](https://www.youtube.com/watch?v=KlrJVSJRUN4) on using Github Issues for discussion.*
 
