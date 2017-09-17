@@ -1,24 +1,15 @@
 # Open Austin: Project Ideas
 
-#### Check out what other members are working on
-
-- Browse [Active Projects](https://github.com/open-austin/project-ideas/projects/1)
-
 #### Want to start an Open Austin project?
 
 [Share your idea with us!](https://github.com/open-austin/project-ideas/issues/new)
 
 #### Looking to jump into an existing project?
 
-- Browse [All](http://www.github.com/open-austin)
-- Browse by [Label](https://github.com/open-austin/project-ideas/labels)
-
-Browse by type of task:
-
-- [Design](https://github.com/search?utf8=✓&q=org%3Aopen-austin+is%3Aopen+label%3Adesign&type=Issues)
-- [Dev](https://github.com/search?utf8=✓&q=org%3Aopen-austin+is%3Aopen+label%3Adev&type=Issues)
-- [Data Wrangling](https://github.com/search?o=desc&q=org%3Aopen-austin+is%3Aopen+label%3A%22Data+wrangling%22&s=created&type=Issues&utf8=✓)
-- [Programming](https://github.com/search?utf8=✓&q=org%3Aopen-austin+is%3Aopen+label%3Aprogramming&type=Issues)
+- Join an [active project](https://github.com/open-austin/project-ideas/milestone/2)
+- Revive and direct an [abandoned idea](https://github.com/open-austin/project-ideas/milestone/5)
+- Browse [all the project ideas](https://github.com/open-austin/project-ideas/issues)
+- Practice a specific skill, like [design](https://github.com/search?utf8=✓&q=org%3Aopen-austin+is%3Aopen+label%3Adesign&type=Issues), [dev](https://github.com/search?utf8=✓&q=org%3Aopen-austin+is%3Aopen+label%3Adev&type=Issues), or [data wrangling](https://github.com/search?o=desc&q=org%3Aopen-austin+is%3Aopen+label%3A%22Data+wrangling%22&s=created&type=Issues&utf8=✓).
 
 ## About the Open Austin Team
 
