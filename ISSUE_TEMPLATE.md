@@ -56,5 +56,6 @@ To have your project FEATURED on [Open-Austin.org](https://open-austin.org/), co
 
 Once all of the above is complete,
 - [ ] [Create an issue](https://github.com/open-austin/open-austin.github.io/issues/new) on the open-austin.github.io repo with the title `Add [my project] to projects page`. An Open Austin leader will review this issue and post your project :balloon:
+- [ ] [Tell the City of Austin](http://austintexas.gov/page/mobile-app-library). If your idea is in a shareable format and can benefit people around the city, go to that site and follow the instructions on the bottom of the page to showcase your work there.
 
 If you get stuck at any point, feel free to reach out to the leadership team on Slack by adding @leadership to your message. We're here to help you make real changes to our city.
