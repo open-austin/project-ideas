@@ -34,7 +34,7 @@ Hey, you're official! You're now part of the growing civic hacking community in 
 
 - [x] Create this idea issue
 - [x] Flesh out the who, where, and what questions above
-- [ ] Start the conversation about this new idea on [Slack](https://openaustin-slackin.herokuapp.com/)!
+- [ ] Start the conversation about this new idea on [Slack](https://openaustin-slackin.herokuapp.com/) (this project uses [#general](https://open-austin.slack.com/messages/C036FLME2) <!-- replace this with your preferred channel -->)
 - [ ] Respond with at least one update on this issue within the next month
 
 #### Checklist for ACTIVE projects :fire:
