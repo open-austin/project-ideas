@@ -54,7 +54,7 @@ Let's get this project started! When this idea starts taking off, the Projects C
   - You'll need permission from a Slack admin, so just mention @leadership on Slack to get this set up.
   - This will make it easier to get the attention of the core contributors of your project in your project slack channel which may have some spectators or more casual contributors. 
   - People can be added and removed to your group as contributors join and leave. 
-- [ ]   Create a [Google Drive](drive.google.com), [Dropbox](https://www.dropbox.com/), or other cloud storage to share larger files
+- [ ]   Create a [Google Drive](https://drive.google.com), [Dropbox](https://www.dropbox.com/), or other cloud storage to share larger files
   - Github and Data.World are good for code and data, respectively, especially when you need version control. But they're not good for very large files, documentation, articles, etc. A cloud storage option will allow you to easily share, create, and collaborate on documents with your team and help organize ideas and thoughts.
   - Doing this early on can help your team stay organized and to onboard new contributors who wouldn't have access to files you all have shared over email.
 
