@@ -1,11 +1,16 @@
 <!--- Keep everything below and click 'Submit new issue'  --->
 
-### What problem are we trying to solve?
+### What problem are you trying to solve?
 
 Answer here.
 
 
-### Who will benefit (directly and indirectly) from this project?
+### Who will benefit (directly and indirectly) from your project?
+
+Answer here.
+
+
+### What other resources/tools are currently serving the same need? How does your project set itself apart?
 
 Answer here.
 
@@ -15,7 +20,7 @@ Answer here.
 Links here.
 
 
-### What help is needed at this time?
+### What help do you need now?
 
 Answer here.
 
@@ -23,6 +28,7 @@ Answer here.
 ### What are the next steps (validation, research, coding, design)?
 
 Answer here.
+
 
 ### How can we contact you outside of Github(list social media or places you're present)?
 
@@ -38,15 +44,14 @@ Hey, you're official! You're now part of the growing civic hacking community in 
 
 - [x] Create this idea issue
 - [x] Flesh out the who, where, and what questions above
-- [ ] Start the conversation about this new idea on [Slack](https://openaustin-slackin.herokuapp.com/) (this project uses [#general](https://open-austin.slack.com/messages/C036FLME2) <!-- replace this with your preferred channel -->)
-- [ ] Respond with at least one update on this issue within the next month
+- [ ] Start the conversation about this idea on [Slack](https://openaustin-slackin.herokuapp.com/) Replace this link to the [#general](https://open-austin.slack.com/messages/C036FLME2) channel with your project's preferred channel.
 
 #### Checklist for ACTIVE projects :fire:
 Let's get this project started! When this idea starts taking off, the Projects Core Team will start helping this project's lead(s) out with project management and connecting you to resources you may need. To get there, please complete and check off the following:
 
 - [x] Post an update at least once a month to this issue. Use [BASEDEF](https://github.com/open-austin/cheatsheet-basedef) for ideas, but it's ok even if your update is just "nothing new happened this month" or "we saw a small increase in traffic to our app this month". If there's no activity for two months, that's no problem, life happens. We'll just label this as `backlog` so others know you'll get back to it when you have the time. If nobody hears from you at all in more than two months, we may mark it as `abandoned` so that others can pick up this idea and run with it.
 - [ ] Take 30 minutes to complete [Open Leadership 101](https://mozilla.teachable.com/p/open-leadership-101) 
-- [ ] Create a [GitHub repository](https://github.com/new) and Slack channel for work.
+- [ ] Create a [GitHub repository](https://github.com/new). Ask for help setting up permissions if you want your repository to be within the [Open Austin Github organization](https://github.com/open-austin).
 - [ ] Create a [README file](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/) in your project repository. This file should help newcomers understand what your project is, why it's important, and kinds of help you're looking for.
 - [ ] [Create issues](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/project-set-up-for-collaboration-with-github/#assignment--add-your-first-issue) to describe each task that you plan to do or need help with and how a contributor can get started on that task. You might start and stop a lot, so consider issues as your to-do list.
 - [ ] Create a [team](https://help.github.com/articles/creating-a-team/) for your core contributors
@@ -54,12 +59,8 @@ Let's get this project started! When this idea starts taking off, the Projects C
   - You can remove and add people to your team as needed. 
   - View some of our teams: [https://github.com/orgs/open-austin/teams](https://github.com/orgs/open-austin/teams)
   - Note: You can also allow collaborators outside of your team and give them more limited access.
-- [ ]   Create a [user group](https://get.slack.help/hc/en-us/articles/212906697-User-Groups) in Slack so you can "@" your team all at once
-  - You'll need permission from a Slack admin, so just mention @leadership on Slack to get this set up.
-  - This will make it easier to get the attention of the core contributors of your project in your project slack channel which may have some spectators or more casual contributors. 
-  - People can be added and removed to your group as contributors join and leave. 
-- [ ]   Create a [Google Drive](https://drive.google.com), [Dropbox](https://www.dropbox.com/), or other cloud storage to share larger files
-  - Github and Data.World are good for code and data, respectively, especially when you need version control. But they're not good for very large files, documentation, articles, etc. A cloud storage option will allow you to easily share, create, and collaborate on documents with your team and help organize ideas and thoughts.
+- [ ]   Create a [user group](https://get.slack.help/hc/en-us/articles/212906697-User-Groups) in Slack so you can "@" your core contributors all at once, without bothering other people who use the Slack channel. You'll need permission from a Slack admin, so just mention @leadership on Slack to get this set up.
+- [ ]   Create a [Google Drive](https://drive.google.com), [Dropbox](https://www.dropbox.com/), or other cloud storage to share larger files. Github and Data.World are good for code and data, respectively, especially when you need version control. But they're not good for very large files, documentation, articles, etc. A cloud storage option will allow you to easily share, create, and collaborate on documents with your team and help organize ideas and thoughts.
   - Doing this early on can help your team stay organized and to onboard new contributors who wouldn't have access to files you all have shared over email.
 
 #### Checklist for FEATURED Projects :tada:
