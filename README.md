@@ -1,3 +1,7 @@
+# Open Austin is no longer using GitHub to intake projects.  Please submit project ideas using [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScvbAd9T3nrqmjQjkohaO8Hq9MCP7Z_L8oNnGT1_MpfTwbbvw/viewform).  You can track your request's status by joining our Slack.
+
+-----
+
 # Open Austin: Project Ideas
 
 #### Want to start an Open Austin project?
